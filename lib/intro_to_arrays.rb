@@ -1,4 +1,1 @@
-def instaniate_new_array
-  new_arr = []
-  return new_arr
-end
+@my_new_array = instaniate_new_arr
