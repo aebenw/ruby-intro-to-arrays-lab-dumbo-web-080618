@@ -1,2 +1,2 @@
 
-instaniate_new_arr = []
+instaniate_new_array = []
