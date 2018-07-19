@@ -1,1 +1,2 @@
-@my_new_array = []
+
+instaniate_new_arr = []
